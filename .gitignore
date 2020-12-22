@@ -8,8 +8,8 @@
 *.obj
 
 #Build dir & dataset 
-/build
-/data
+**/build
+**/data
 
 # Precompiled Headers
 *.gch
