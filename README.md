@@ -9,7 +9,6 @@ Lidar sensing gives us high resolution data by sending out thousands of laser si
  <div align=center><img src="./assets/steps.gif" alt="steps.gif" align=center /></div>
 
 ## Excerpt output from PCD dataset 
-
 ### Sample output for data_1
 <table style="width:100%">
   <tr>
@@ -105,8 +104,8 @@ Some comments from the previous concept about the way bounding boxes are calcula
 ```bash
 $> sudo apt install libpcl-dev
 $> cd ~
-$> git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
-$> cd SFND_Lidar_Obstacle_Detection
+$> git clone https://github.com/nz-is/LiDAR-Obstacle-Detection.git
+$> cd LiDAR-Obstacle-Detection.gitn
 $> mkdir build && cd build
 $> cmake ..
 $> make
