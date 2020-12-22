@@ -24,8 +24,10 @@ Lidar sensing gives us high resolution data by sending out thousands of laser si
       </p>
     </th>
   </tr>
-  </table>
+</table>
+
 ### Sample output on data_2
+
 <table style="width:100%">
   <tr>
     <th>
